@@ -7,3 +7,8 @@ adds highlighting support for the brainrot programming language to vim
 `cd ~/.vim/pack/vendor/start`
 ### 3. Install the plugin
 `git clone https://github.com/Brainrotlang/brainrot-vim-plugin`
+
+## Installation with Packer
+```lua
+   use 'Brainrotlang/brainrot-vim-plugin'
+```
