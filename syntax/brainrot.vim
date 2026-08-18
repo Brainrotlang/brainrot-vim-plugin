@@ -6,14 +6,15 @@ syntax match mylangVariable "\v<\w+>"
 highlight link mylangVariable Identifier
 
 syn keyword brainrotType rizz chad yap cap deadass rant skibidi gang chungus
-syn keyword brainrotType gigachad nonut nut smol giga thicc
+syn keyword brainrotType gigachad nonut nut smol giga thicc gyatt
 syn keyword brainrotType lit
 hi def link brainrotType Type
 
 syn keyword brainrotStatement edgy amogus
 syn keyword brainrotStatement goon mewing flex
 syn keyword brainrotStatement bruh grind
-syn keyword brainrotStatement ohio sigma rule
+syn keyword brainrotStatement ohio
+syn match brainrotStatement "\<sigma rule\>"
 syn keyword brainrotStatement based
 syn keyword brainrotStatement bussin
 syn keyword brainrotStatement cringe
@@ -35,7 +36,7 @@ syn keyword brainrotBoolean W L
 hi def link breainrotBoolean Boolian
 
 syn keyword brainrotFunction yapping yappin baka
-syn keyword brainrotFunction ragequit chill slorp main
+syn keyword brainrotFunction ragequit chill slorp bet main
 syn match brainrotFunction "\v<\w+\s*\ze\("
 hi def link brainrotFunction Function
 
