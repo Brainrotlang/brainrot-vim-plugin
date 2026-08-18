@@ -7,6 +7,7 @@ highlight link mylangVariable Identifier
 
 syn keyword brainrotType rizz chad yap cap deadass rant skibidi gang chungus
 syn keyword brainrotType gigachad nonut nut smol giga thicc gyatt
+syn keyword brainrotType lit
 hi def link brainrotType Type
 
 syn keyword brainrotStatement edgy amogus
