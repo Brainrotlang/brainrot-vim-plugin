@@ -10,6 +10,9 @@ syn keyword brainrotType gigachad nonut nut smol giga thicc gyatt
 syn keyword brainrotType lit
 hi def link brainrotType Type
 
+syn match brainrotDirective "#cooked\>"
+hi def link brainrotDirective PreProc
+
 syn keyword brainrotStatement edgy amogus
 syn keyword brainrotStatement goon mewing flex
 syn keyword brainrotStatement bruh grind
