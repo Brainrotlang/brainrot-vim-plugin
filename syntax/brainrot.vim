@@ -40,6 +40,7 @@ hi def link breainrotBoolean Boolian
 
 syn keyword brainrotFunction yapping yappin baka
 syn keyword brainrotFunction ragequit chill slorp bet main
+syn keyword brainrotFunction gamba yaplen yapcat yapcmp yapidx
 syn match brainrotFunction "\v<\w+\s*\ze\("
 hi def link brainrotFunction Function
 
