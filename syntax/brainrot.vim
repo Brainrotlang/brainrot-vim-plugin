@@ -7,7 +7,7 @@ highlight link mylangVariable Identifier
 
 syn keyword brainrotType rizz chad yap cap deadass rant skibidi gang chungus
 syn keyword brainrotType gigachad nonut nut smol giga thicc gyatt
-syn keyword brainrotType lit
+syn keyword brainrotType lit SAUCE
 hi def link brainrotType Type
 
 syn match brainrotDirective "#cooked\>"
@@ -20,7 +20,6 @@ syn keyword brainrotStatement ohio
 syn match brainrotStatement "\<sigma rule\>"
 syn keyword brainrotStatement based
 syn keyword brainrotStatement bussin
-syn keyword brainrotStatement cringe
 hi def link brainrotStatement Statement
 
 syn keyword brainrotOperator maxxing
@@ -32,7 +31,6 @@ syn match brainrotOperator "[++\|--]"
 hi def link brainrotOperator Operator
 
 syn keyword brainrotStorageClass salty schizo
-syn keyword brainrotStorageClass whopper
 hi def link breainrotStorageClass StorageClass
 
 syn keyword brainrotBoolean W L
@@ -41,6 +39,8 @@ hi def link breainrotBoolean Boolian
 syn keyword brainrotFunction yapping yappin baka
 syn keyword brainrotFunction ragequit chill slorp bet main
 syn keyword brainrotFunction gamba yaplen yapcat yapcmp yapidx
+syn keyword brainrotFunction crackopen peaceout doomscroll shitpost skim yapto
+syn keyword brainrotFunction zoink whereami throwback itsjoever bricked bustcache
 syn match brainrotFunction "\v<\w+\s*\ze\("
 hi def link brainrotFunction Function
 
